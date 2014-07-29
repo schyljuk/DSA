@@ -1514,7 +1514,7 @@ since IE8 won't execute CSS that contains a CSS3 selector.
 
 /* ACTIVE MENU ITEM */
 .pure-menu .pure-menu-selected a {
-    color: #fff;
+    color: #000;
 }
 
 /* FIXED MENU */
